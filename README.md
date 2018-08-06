@@ -9,3 +9,6 @@ draft-ietf-kitten-kerberos-iana-registries was first published as a kitten WG do
 
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
+Benjamin Kaduk | 2013-08-05 | -01 | nothing objectionable, typos | https://www.ietf.org/mail-archive/web/kitten/current/msg04209.html
+Rick van Rein | 2014-07-21 | -03 | bitflag length conflicts | https://www.ietf.org/mail-archive/web/kitten/current/msg04761.html
+Rick van Rein | 2014-03-13 | -03 | more bitflag length concerns | https://www.ietf.org/mail-archive/web/kitten/current/msg06026.html
